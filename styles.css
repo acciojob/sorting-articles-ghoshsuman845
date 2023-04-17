@@ -1,22 +1,21 @@
 /*  your css code here. If applicable */
 /*  your css code here. If applicable */
-body{
+/* body{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZlf5lc5tX-0gY-y94pGS0mQdL-D0lCH2OQ&usqp=CAU);
 }
-#bands{
-    width: 40%;
-    background-color: white;
-    margin: auto;
-    
+ */
+.bimg{
+	background-image: url(https://images.pexels.com/photos/1179229/pexels-photo-1179229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
 }
-li{
-    list-style: square;
-    margin: 15px 0;
-    text-align: left;
+
+.dimg {
+	background-color: white;
+	margin: auto;
+  width: 50%;
+  
+  padding: 10px;
+	
 }
-ul li:first-of-type{
-    padding-top: 10px;
-}
-ul li:last-of-type{
-    padding-bottom: 10px;
+.center {
+  
 }
